@@ -1,4 +1,4 @@
-[logo] (https://github.com/ypexxx/ypexxx/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)
+![logo] (https://github.com/ypexxx/ypexxx/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)
 
 <h1 align="center">Hi 👋, I'm Yuafiq Alfin</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Yogyakarta, Indonesia</h3>
